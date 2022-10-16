@@ -1,6 +1,6 @@
 ### Hi there,  I'm Godson Sakawa 👋
 
-## I'm Full stack developer who is exploring the cloud :: Enthusiast
+## I'm Full stack developer who is also exploring the cloud.
 
 
 - 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform

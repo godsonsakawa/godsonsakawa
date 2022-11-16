@@ -1,13 +1,9 @@
 ### Hi there,  I'm Godson Sakawa 👋
 
-## I'm Full stack developer who is also exploring the cloud.
+- 🌱 I’m currently learning about Software at ALX.
+- 🔭 Learning to do hard things, everyday. #ALX
+- 👯 I’m looking to collaborate on software projects to advance my learning.
 
-
-- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
-- 🔭 Learning to do hard things. #ALX
-- 👯 I’m looking to collaborate on Cloud application deployment projects.
-- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-- ⚡ Fun fact:  I speak french.
 
 ##  Connect with me 🌍
 

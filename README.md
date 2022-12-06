@@ -1,9 +1,6 @@
 ### Hi there,  I'm Godson Sakawa 👋
 
 - 🌱 I’m currently learning about Software at ALX.
-- 🔭 Learning to do hard things, everyday. #ALX
-- 👯 I’m looking to collaborate on software projects to advance my learning.
-
 
 ##  Connect with me 🌍
 

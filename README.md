@@ -1,6 +1,6 @@
-### Hi there,  I'm Godson Sakawa 👋
+###  I'm Godson Sakawa 👋
 
--  I’m currently learning about Software at ALX.
+-  I’m on Software at ALX.
 
 ##  Connect with me 🌍
 

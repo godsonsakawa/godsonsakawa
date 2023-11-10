@@ -41,7 +41,8 @@ Software Developer || Web Developer
 
  <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/godsonsakawa" title="Go to my GitHub profile">
+<a href="https://github.com/godsonsakawa" title="Go to my GitHub profile">
   <img src="https://githubreadmestreakstats.herokuapp.com/user=godsonsakawa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="ReadMe Streak badge" class="readme-streak-badge">
 </a>
+
 

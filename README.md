@@ -12,7 +12,7 @@ Software Developer || Web Developer
 
 <a href="https://www.twitter.com/godsonsakawa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/godsonsakawa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-### Skills
+<h3 align="center"><br>Tools & Technologies</h3>
 
 <p align="left">
     

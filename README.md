@@ -5,9 +5,7 @@ Hi 👋  Godson Sakawa here!
 Software Developer || Web Developer
 ----------------------------------------
 
-* 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [godsonsakawa@gmail.com](mailto:godsonsakawa@gmail.com)
-* 🧠  I'm learning Python, scripting, low-level programming, object-oriented programming
 * 🤝  I'm open to collaborating on front-end projects and projects on Python.
 
 <a href="https://www.twitter.com/godsonsakawa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/godsonsakawa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>

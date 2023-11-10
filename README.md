@@ -2,8 +2,8 @@
 Hi 👋  Godson Sakawa here! 
 =======================================
 
-Software Developer || Web Developer
-----------------------------------------
+Software Developer || Web Developer || Dev-Ops
+----------------------------------------------
 
 * 🤝  I'm open to collaborating on front-end projects and projects on Python.
 * ✉️  You can contact me at [godsonsakawa@gmail.com](mailto:godsonsakawa@gmail.com)
@@ -26,6 +26,14 @@ Software Developer || Web Developer
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Pinned Repo's
+
+| Repository | Description |
+| --- | --- |
+| [AlX-low_level_programming](https://github.com/godsonsakawa/C-Python-Shell-MSQL-AirbnbProjects-/tree/main/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [Alx-system_engineering-devops](https://github.com/godsonsakawa/C-Python-Shell-MSQL-AirbnbProjects-/tree/main/alx-higher_level_programming) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [Alx-high_level_programming](https://github.com/godsonsakawa/C-Python-Shell-MSQL-AirbnbProjects-/tree/main/alx-system_engineering-devops) | Python Loops and iterators, functions, test-driven development, data structures, and algorithms|
 
 
 <h3 align="left"><br>Let's Connect</h3>

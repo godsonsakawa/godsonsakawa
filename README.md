@@ -45,7 +45,3 @@ Software Developer || Web Developer || Dev-Ops
 </p>
 
 
-### Badges
-
-
-

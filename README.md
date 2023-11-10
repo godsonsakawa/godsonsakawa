@@ -27,7 +27,7 @@ Software Developer || Web Developer || Dev-Ops
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Pinned Repo's
+### Course-Work Repositories
 
 | Repository | Description |
 | --- | --- |

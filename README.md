@@ -5,8 +5,7 @@ Hi 👋  Godson Sakawa here!
 - 🔭 I’m currently Learning Go 
 - 🔭 I’m looking for cool projects that I can contribute to, feel free to connect with me :)
  <br>
-* ✉️  You can contact me at [godsonsakawa@gmail.com](mailto:godsonsakawa@gmail.com)
-  
+ 
 <a href="https://www.twitter.com/godsonsakawa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/godsonsakawa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 <h3 align="left"><br>Tools & Technologies</h3>
